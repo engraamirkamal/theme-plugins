@@ -1,1 +1,0 @@
-$('.<?php echo $sectionClass?> .<?php echo $sectionClass?>').removeClass('<?php echo $sectionClass?>');

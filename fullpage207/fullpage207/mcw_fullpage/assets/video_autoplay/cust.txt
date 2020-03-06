@@ -1,9 +1,0 @@
-{
-  "before": {
-    "file":"video_autoplay.min.js",
-    "params": {
-      "selector": ""
-    }
-  },
-  "afterRender": "video_autoplay();"
-}
