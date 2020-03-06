@@ -1,0 +1,10 @@
+{
+  "before": {
+    "file":"pb_container_fix.min.js",
+    "params": {
+      "parent": "",
+      "section": "",
+      "container": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "before": {
+    "file":"musthave.min.js",
+    "params": {
+      "parent": "",
+      "sectionClass": ""
+    }
+  }
+}

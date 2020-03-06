@@ -1,0 +1,1074 @@
+# Copyright (C) 2019 tshowcase
+# This file is distributed under the same license as the tshowcase package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tshowcase\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../team-showcase/advanced-options.php:103
+msgid "Aditional Information"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:104
+msgid "Social Profile Links"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:107
+msgid "Use the complete URL to the profile page. Example: http://www.facebook.com/profile"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:113, ../team-showcase/advanced-options.php:353
+msgid "Free HTML"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:114, ../team-showcase/advanced-options.php:354
+msgid "Short bio or tag line. You can use HTML code here."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:121
+msgid "Name/Title"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:122
+msgid "Name of the entry."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:127
+msgid "Photo/Image"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:128
+msgid "Featured Image of the entry."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:134, ../team-showcase/shortcode-generator.php:1003
+msgid "Image Shape"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:135
+msgid "Shape of Featured Image of the entry."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:140
+msgid "Small Icons"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:141
+msgid "Small CSS Icons."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:145, ../team-showcase/settings-page.php:171
+msgid "Social Icons"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:146
+msgid "Social Icons."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:149, ../team-showcase/search-widget.php:104, ../team-showcase/search-widget.php:136, ../team-showcase/search-widget.php:173, ../team-showcase/search-widget.php:210
+msgid "Filter"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:150, ../team-showcase/advanced-options.php:156
+msgid "All"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:153
+msgid "Filter Source"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:157
+msgid "Search"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:158
+msgid "Results for "
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:161
+msgid "Next Page >"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:162
+msgid "< Previous Page"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:259, ../team-showcase/advanced-options.php:302, ../team-showcase/advanced-options.php:318, ../team-showcase/advanced-options.php:334, ../team-showcase/tshowcase.php:3831
+msgid "Default"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:265
+msgid "Blue Badge Title"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:273
+msgid "Retro boxes"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:280
+msgid "White Box with Shadow"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:286
+msgid "Simple Card"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:292
+msgid "Simple White Card"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:308
+msgid "White Hover"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:324
+msgid "Odd Rows Colored"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:364
+msgid "Job Title"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:365
+msgid "The job description, position or functions of this member."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:375, ../team-showcase/tshowcase.php:696
+msgid "Email"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:376
+msgid "Contact email."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:386
+msgid "Location"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:387
+msgid "Location/Origin/Address."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:397
+msgid "Telephone"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:398
+msgid "Telephone contact."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:408
+msgid "Personal Website"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:409
+msgid "URL to personal website."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:420
+msgid "Personal Website Anchor Text"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:421
+msgid "Text to display for the link. If blank URL will be used."
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:429
+msgid "User/Author Profile"
+msgstr ""
+
+#: ../team-showcase/advanced-options.php:430
+msgid "If this member is associated with a user account select it here. Might be used to fetch latest published posts in the single member page."
+msgstr ""
+
+#: ../team-showcase/ordering-code.php:108
+msgid "Simple Page Ordering"
+msgstr ""
+
+#: ../team-showcase/ordering-code.php:109
+msgid "To reposition an item, simply drag and drop the row by \"clicking and holding\" it anywhere (outside of the links and form controls) and moving it to its new position."
+msgstr ""
+
+#: ../team-showcase/ordering-code.php:311
+msgid "Sort by Order"
+msgstr ""
+
+#: ../team-showcase/ordering-code.php:315
+msgid "Drag & Drop Ordering Activated"
+msgstr ""
+
+#: ../team-showcase/search-widget.php:12, ../team-showcase/search-widget.php:15
+msgid " Search Form"
+msgstr ""
+
+#: ../team-showcase/search-widget.php:84
+msgid "Title"
+msgstr ""
+
+#: ../team-showcase/search-widget.php:104, ../team-showcase/search-widget.php:136, ../team-showcase/search-widget.php:173, ../team-showcase/search-widget.php:210
+msgid "Display"
+msgstr ""
+
+#: ../team-showcase/search-widget.php:119, ../team-showcase/search-widget.php:151, ../team-showcase/search-widget.php:188, ../team-showcase/search-widget.php:225, ../team-showcase/settings-page.php:117, ../team-showcase/settings-page.php:370
+msgid "Yes"
+msgstr ""
+
+#: ../team-showcase/search-widget.php:124, ../team-showcase/search-widget.php:156, ../team-showcase/search-widget.php:193, ../team-showcase/search-widget.php:230, ../team-showcase/settings-page.php:118, ../team-showcase/settings-page.php:371
+msgid "No"
+msgstr ""
+
+#: ../team-showcase/search-widget.php:136, ../team-showcase/search-widget.php:173, ../team-showcase/search-widget.php:210, ../team-showcase/search-widget.php:381, ../team-showcase/search-widget.php:410, ../team-showcase/settings-page.php:448, ../team-showcase/settings-page.php:458, ../team-showcase/settings-page.php:468, ../team-showcase/settings-page.php:477, ../team-showcase/tshowcase.php:674, ../team-showcase/tshowcase.php:687
+msgstr ""
+
+#: ../team-showcase/search-widget.php:273
+msgid "Results URL"
+msgstr ""
+
+#: ../team-showcase/search-widget.php:287
+msgid "Include the URL of the page where you applied a Team Showcase shortcode. If empty it will default to the search results page template of current Theme."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:26, ../team-showcase/tshowcase.php:760, ../team-showcase/tshowcase.php:761
+msgid "Settings"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:29
+msgid "Settings Updated"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:71
+msgid "Advanced - Additional Fields"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:75
+msgid "Custom Information Fields"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:82
+msgid "CSV values to populate custom fields."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:85, ../team-showcase/settings-page.php:99
+msgid "More Information"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:89
+msgid "Social Networks"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:96
+msgid "CSV values to add new social networks fields."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:107
+msgid "Image Options"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:110
+msgid "Main Image Size"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:111, ../team-showcase/settings-page.php:152
+msgid "Width"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:113, ../team-showcase/settings-page.php:160
+msgid "Height"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:115
+msgid "Crop"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:122
+msgid ""
+"\n"
+"      This will be the size of the Images. When they are uploaded they will follow this settings. If you change this settings after the image is uploaded they will show scaled.</span></td>\n"
+"      "
+msgstr ""
+
+#: ../team-showcase/settings-page.php:131, ../team-showcase/shortcode-generator.php:684
+msgid "Thumbnails Pager"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:148
+msgid "This will be the size of the thumbnail images in the 'Thumbnails Pager' layout. Smaller value will prevail, if image doesn't match the size."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:151
+msgid "Table Image Size"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:168
+msgid "This will be the size of the thumbnail images in the 'Table' layout. Smaller value will prevail, if image doesn't match the size."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:184, ../team-showcase/settings-page.php:203
+msgid "What Social Icons do you want to display?"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:187
+msgid "Icons Size"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:209
+msgid "Linking Settings"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:219
+msgid "When active, emails will display as a link in the mailto:email format. "
+msgstr ""
+
+#: ../team-showcase/settings-page.php:230
+msgid "When active, telephone entries will display linked with the tel: protocol. "
+msgstr ""
+
+#: ../team-showcase/settings-page.php:234
+msgid "nofollow Social Links"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:241
+msgid "When active, social links will have the rel=\"nofollow\" parameter."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:245
+msgid "Main Link CSS Class"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:252
+msgid "This will be the css class of the links that lead to the single page or custom URLs. It can be useful to place a class to use with a lightbox plugin for example."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:255
+msgid "Main Link rel attribute"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:262
+msgid "This will be the rel parameter of the links that lead to the single page or custom URLs. It can be useful to place a rel attribute to use with a lightbox plugin for example."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:266
+msgid "Redirect User Page"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:273
+msgid "Will redirect the user/author pages to the associated team member entry page"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:277
+msgid "Ajax Settings"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:280
+msgid "Ajax Pagination"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:287
+msgid "If active, when pagination is enabled, it will be performed with ajax, so the page does not reload."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:292
+msgid "Search Settings"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:295
+msgid "Exclude From General Search"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:304
+msgid ""
+"If active it will exclude the Team Showcase entries from the General Search Results (General Search Form). <br /> You can place a Search Form specific for Team Showcase entries using the widget option available or placing the following shortcode in your page:<br />\n"
+"      <code>[show-team-search filter=\"\" url =\"\"]</code> Where filter = true or false and url = link to a page where you have placed a Team Showcase shortcode (you can leave it blank and it will default to the theme search results page)."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:314
+msgid "Autocomplete Suggestions"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:321
+msgid "If enabled, when user writes on search input, autocomplete suggestions will display. Only the Name of members entries will be considered."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:326
+msgid "Go to single page"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:333
+msgid "If enabled, when user clicks the suggestion, the single page for that entry will open"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:338
+msgid "Search all fields"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:345
+msgid "When disabled, the search will only consider the Title/Name and content of each entry. When including all fields, you may experience speed issues."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:350
+msgid "Registered Users Access"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:353
+msgid "One entry per user"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:360
+msgid "When enabled, registered users with roles that are only capable or editing their own posts, will be limited to add and edit only one team member entry. Administrators and Editors will still be able to create and edit all entries. This will also enable a direct link to their entry on the administration menus."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:365
+msgid "Single Page Settings"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:368
+msgid "Active"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:373
+msgid "If active, single pages for each entry will be available.  <strong> If your single pages are not working and you get a 404 Page not Found error, try resaving your <a href='<?php echo get_admin_url(); ?>options-permalink.php'>permalink options</a>."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:376
+msgid "Include Structural Data"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:386
+msgid "If enabled, structural data for the \"Person\" type in JSON-LD format will be added to the single page with information about the entries that can be picked up by search engines and display rich snippets on the search result pages. <a href=\"http://cmoreira.net/team-showcase/structured-data/\" target=\"_blank\">More information</a>"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:390
+msgid "Page Template:"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:410
+msgid "This option will depend on your theme. Many themes display extra meta information on post pages such as <i>posted by</i> or <i>post date</i> information, which may not be desired. Usually, page templates contain the essential information. If you choose <i>Pages</i> then the team members will be shown using your theme default page template. <storng>Be aware that some themes will not work with this option</strong>, if so (or you want to make a custom page), you can create a file named <code>single-tshowcase.php</code> <a href='http://codex.wordpress.org/Post_Types#Template_Files'>as shown on the wordpress codex</a>, and leave this set to Posts."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:413, ../team-showcase/shortcode-generator.php:680
+msgid "Layout"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:415
+msgid "None"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:416, ../team-showcase/shortcode-generator.php:696, ../team-showcase/shortcode-generator.php:700, ../team-showcase/shortcode-generator.php:701, ../team-showcase/shortcode-generator.php:702, ../team-showcase/shortcode-generator.php:703, ../team-showcase/shortcode-generator.php:704
+msgid "Columns"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:417
+msgid "Information Card"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:419
+msgid "Choose the layout type for the single page."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:422
+msgid "Show Latest Posts"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:435
+msgid "When active, if there is a user associated with with the entry, it will display his latest posts, if available."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:438
+msgid "Display:"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:478, ../team-showcase/shortcode-generator.php:1005
+msgid "Square (normal)"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:479, ../team-showcase/shortcode-generator.php:1006
+msgid "Rounded Corners"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:480, ../team-showcase/shortcode-generator.php:1007
+msgid "Circular"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:597
+msgid "Set of options to display in the single page."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:600
+msgid "Archive Page"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:604
+msgid "Archive Custom URL"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:611
+msgid "Sometimes breadcrumbs will link to the default theme archive page, which does not have the layout you want. You can setup here the URL you want the archive page to redirect to."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:614
+msgid "Labels/Names"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:618
+msgid "Singular Name"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:620
+msgid "These will be the labels for your features."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:623
+msgid "Plural Name"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:629
+msgid "Slug"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:631
+msgid "If you change this option, you might have to update/save the 'permalink' settings again. The slug value should be unique. There can't be any other page or post with the same slug as this."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:638
+msgid "\"All\" Filter/Search Label"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:640
+msgid "In filters in the search form, this will be the label to designate 'All' entries."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:645
+msgid "\"Search\" Label"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:647
+msgid "Word to display as the placeholder and on the search button of the search form"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:653
+msgid "\"Load More\" Label"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:655
+msgid "Word to display in the 'Load More' button if used."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:659
+msgid "Taxonomies"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:664
+msgid "Main Taxonomy"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:680
+msgid "Second Taxonomy"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:688
+msgid "You can use the parameter taxonomy=\"true\" in your search shortcode to display the second dropdown filter."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:704
+msgid "Third Taxonomy"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:712
+msgid "You can use the parameter ctaxonomy=\"true\" in your search shortcode to display the third dropdown filter."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:727
+msgid "Fourth Taxonomy"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:735
+msgid "You can use the parameter dtaxonomy=\"true\" in your search shortcode to display the fourth dropdown filter."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:741
+msgid "Custom Styles & Scripts"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:745
+msgid "Custom CSS"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:752
+msgid "Place here any custom CSS you want to display together with the Team Showcase layout."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:755
+msgid "Custom JS"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:762
+msgid "Place here any custom javascript you want to display together with the Team Showcase layout. <br> Javascript code can be dangerous. You are responsible for the code you include here. Avoid copying code from unreliable sources."
+msgstr ""
+
+#: ../team-showcase/settings-page.php:766
+msgid "Register Plugin"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:770
+msgid "Envato API Token"
+msgstr ""
+
+#: ../team-showcase/settings-page.php:778
+msgid "To enable automatic updates, please add an Envato Token API code here to register the plugin.<br> <a href=\"https://build.envato.com/create-token/?purchase:download=t&purchase:verify=t&purchase:list=t&user:username\" target=\"_blank\">You can get one here</a>."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:6, ../team-showcase/shortcode-generator.php:7
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:159
+msgid "What entries do you want to display?"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:214
+msgid "Relation"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:221
+msgid "AND"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:222
+msgid "OR"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:393
+msgid "Order By"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:400
+msgid "Default (Order Field)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:401, ../team-showcase/tshowcase.php:2375
+msgid "Name"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:402
+msgid "Name (slug)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:403
+msgid "Last Word in Name (Old Version)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:404
+msgid "Last Word in Name (New Version)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:405
+msgid "ID"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:406
+msgid "Date"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:407
+msgid "Modified Date"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:408
+msgid "Random"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:409
+msgid "Random on Session"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:410
+msgid "IDs to display Order"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:414
+msgid "Number of entries to display"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:417
+msgid "Leave blank or 0 to display all"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:429
+msgid "Pagination"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:434
+msgid "No Pagination"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:435
+msgid "Normal Pagination"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:436, ../team-showcase/utils.php:233
+msgid "Load More"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:439
+msgid "You should set a limit above for the pagination to work properly."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:446
+msgid "IDs to display"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:448
+msgid "(Comma sperated ID values of specific entries you want to display. Example: 7,11. Leave blank or 0 to display all)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:455
+msgid "IDs to exclude"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:457
+msgid "(Comma sperated ID values of specific entries you want to exclude. Example: 7,11. Leave blank or 0 to display all)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:463
+msgid "What information do you want to display:"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:626
+msgid "Entry Link:"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:628, ../team-showcase/shortcode-generator.php:719, ../team-showcase/shortcode-generator.php:818, ../team-showcase/shortcode-generator.php:923
+msgid "Inactive"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:629
+msgid "Active (Default)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:630
+msgid "Active (Default - New Page):"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:631
+msgid "Active (Personal URL Field)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:632
+msgid "Active (Personal URL Field - New Page)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:633
+msgid "Personal URL (Defaults to Inactive)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:634
+msgid "Active (User URL)"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:635
+msgid "Full Size Image"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:636
+msgid "Lightbox"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:641
+msgid "How do you want it to look like?"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:648
+msgid "Load a layout preset:"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:667
+msgid ""
+"Choosing a  preset will automaticaly select predefined values for the visuals.\n"
+"        You can then adjust the options to your needs."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:682
+msgid "Grid"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:683
+msgid "Hover Grid"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:685
+msgid "Table"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:698
+msgid "Normal Float"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:699
+msgid "1 Column"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:720, ../team-showcase/shortcode-generator.php:819
+msgid "Active - Hide Filter"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:721, ../team-showcase/shortcode-generator.php:820
+msgid "Active - Enhance Filter"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:722, ../team-showcase/shortcode-generator.php:922
+msgid "Active - Isotope Hide Filter"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:723
+msgid "Active - Dropdown Hide Filter"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:726, ../team-showcase/shortcode-generator.php:823, ../team-showcase/shortcode-generator.php:926
+msgid "When active, a jQuery Category filter will display above the Grid."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:770, ../team-showcase/shortcode-generator.php:970
+msgid "Select the source taxonomy for the live filters."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:799
+msgid "Composition"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:801, ../team-showcase/shortcode-generator.php:866
+msgid "Image Left - Content Right"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:802, ../team-showcase/shortcode-generator.php:867
+msgid "Content Right - Image Left"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:803, ../team-showcase/shortcode-generator.php:868
+msgid "Image Above - Content Below"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:845
+msgid "General Composition"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:853
+msgid "Thumnails Left - Content Right"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:854
+msgid "Content Left - Thumbnails Right"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:855
+msgid "Content Above - Thumbnails Below"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:856
+msgid "Content Below - Thumbnails Above"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:864
+msgid "Image Composition"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:875, ../team-showcase/shortcode-generator.php:977
+msgid "Theme"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:895
+msgid "Display Header"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:920
+msgid "Active - Hide Effect"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:921
+msgid "Active - Enhance Effect"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1014
+msgid "Image Effect"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1017
+msgid "Grayscale"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1018
+msgid "Shadow Highlight"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1019
+msgid "White Border"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1020
+msgid "Shadow Highlight & Grayscale"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1021
+msgid "Hover Zoom Effect"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1030
+msgid "Text-Align"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1032
+msgid "Left"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1033
+msgid "Right"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1034
+msgid "Center"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1038
+msgid "Image Size Override"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1049
+msgid ""
+"Leave blank to use default values.<br>\n"
+"              In case you want to override the default image size settings, use this field to put the width and height values in the following format: width,height <br>\n"
+"              ex. 100,100. <br>\n"
+"            Width value will prevail if images don't have exactly this size."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1064
+msgid "Browse examples</a> or read more about the shortcode options at the <a href=\"http://cmoreira.net/team-showcase/documentation#shortcodes\" target=\"_blank\">online documentation of the plugin</a>."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1073, ../team-showcase/shortcode-generator.php:1122
+msgid "Save Settings"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1075
+msgid "You can use the shortcode [show-team] without parameters to use the latest saved settings."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1081
+msgid ""
+"Use this shortcode to display the list of Members with the currently selected options. <br>\n"
+"      Just copy this piece of text and place it where you want it to display in your posts, pages or text widgets."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1099
+msgid ""
+"Attention!\n"
+"      This is a preview only. The visuals might differ after applying the shortcode on your page due to extra styling rules that your Theme might have or the available space."
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1112
+msgid "PHP Function"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1113
+msgid "Use this PHP function to display the list of Members directly in your theme files!"
+msgstr ""
+
+#: ../team-showcase/shortcode-generator.php:1124
+msgid "You can use the shortcode <strong>[show-team]</strong> without parameters to use the latest saved settings."
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:109, ../team-showcase/tshowcase.php:128, ../team-showcase/tshowcase.php:147, ../team-showcase/tshowcase.php:166
+msgid "Show All"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:308
+msgid " Image"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:329, ../team-showcase/tshowcase.php:340
+msgctxt "tshowcase"
+msgid "$nameplural"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:330
+msgctxt "tshowcase"
+msgid "$name"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:331, ../team-showcase/tshowcase.php:332, ../team-showcase/tshowcase.php:333, ../team-showcase/tshowcase.php:334, ../team-showcase/tshowcase.php:335, ../team-showcase/tshowcase.php:336, ../team-showcase/tshowcase.php:337, ../team-showcase/tshowcase.php:338, ../team-showcase/tshowcase.php:339
+msgctxt "tshowcase"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:477
+msgid "Insert "
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:477
+msgid " Name Here"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:707
+msgid "If the \"mailto\" option is enabled in the settings, it will work as an email link"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:2372
+msgid "Photo"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3313
+msgid "Latest Posts"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3677
+msgid "By 'Saving Changes' this will render the saved settings from the Shortcode Generator page."
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3697
+msgid "Team Showcase"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3698
+msgid "Insert Team Showcase Layout"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3707
+msgid "To use different settings you should build a unique shortcode and use it on a Text Block."
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3709
+msgid "visual_composer_team_build"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3719
+msgid "Team Showcase Search"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3720
+msgid "Insert Team Search Form"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3733
+msgid "Category Filter"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3739
+msgid "Display a category dropdown"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3750
+msgid "URL to open to process the layout with the results. The results page should have a team showcase shortcode."
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:3812, ../team-showcase/tshowcase.php:3829
+msgid "Page Template"
+msgstr ""
+
+#: ../team-showcase/tshowcase.php:4067, ../team-showcase/tshowcase.php:4106
+msgid "Info"
+msgstr ""
